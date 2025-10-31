@@ -4,3 +4,4 @@ This C++ project provides functions to measure the execution time of sorting and
 
 ## Access
 This project is open-source and free to use.
+-Panu Patil
